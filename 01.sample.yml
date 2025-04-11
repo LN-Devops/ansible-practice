@@ -1,0 +1,4 @@
+- name: Demo
+  hosts: all
+  tasks:
+    - debug: "Printing a message for verification"

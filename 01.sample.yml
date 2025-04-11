@@ -3,5 +3,3 @@
   tasks:
     - debug : 
         msg : "Printing a first message "
-
-        

@@ -1,4 +1,7 @@
 - name: Demo
   hosts: all
   tasks:
-    - debug: "Printing a message"
+    - debug : 
+        msg : "Printing a first message "
+
+        
